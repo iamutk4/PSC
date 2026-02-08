@@ -136,7 +136,7 @@ export default function Home() {
               You just made me the happiest person ever! 🥰
             </p>
             <video
-              src="/assets/vid1.MP4"
+              src="/assets/vid1.mp4"
               className="success-image"
               autoPlay
               loop
