@@ -136,7 +136,7 @@ export default function Home() {
               You just made me the happiest person ever! 🥰
             </p>
             <video
-              src="/assets/vid1.MP4"
+              src="/assets/vid1.mp4"
               className="success-image"
               autoPlay
               loop
@@ -149,43 +149,43 @@ export default function Home() {
             <h2 className="gallery-title">Been a journey .. 💕</h2>
             <div className="photo-collage">
               <div className="polaroid polaroid-1">
-                <img src="/assets/img1.JPEG" alt="Us 1" />
+                <img src="/assets/img1.jpeg" alt="Us 1" />
                 <span className="polaroid-caption">💖</span>
               </div>
               <div className="polaroid polaroid-2">
-                <img src="/assets/img2.JPEG" alt="Us 2" />
+                <img src="/assets/img2.jpeg" alt="Us 2" />
                 <span className="polaroid-caption">🥰</span>
               </div>
               <div className="polaroid polaroid-3">
-                <img src="/assets/img3.JPEG" alt="Us 3" />
+                <img src="/assets/img3.jpeg" alt="Us 3" />
                 <span className="polaroid-caption">✨</span>
               </div>
               <div className="polaroid polaroid-4">
-                <img src="/assets/img4.JPEG" alt="Us 4" />
+                <img src="/assets/img4.jpeg" alt="Us 4" />
                 <span className="polaroid-caption">💗</span>
               </div>
               <div className="polaroid polaroid-5">
-                <img src="/assets/img5.JPEG" alt="Us 5" />
+                <img src="/assets/img5.jpeg" alt="Us 5" />
                 <span className="polaroid-caption">💕</span>
               </div>
               <div className="polaroid polaroid-6">
-                <img src="/assets/img6.JPEG" alt="Us 6" />
+                <img src="/assets/img6.jpeg" alt="Us 6" />
                 <span className="polaroid-caption">💖</span>
               </div>
               <div className="polaroid polaroid-7">
-                <img src="/assets/img7.JPEG" alt="Us 7" />
+                <img src="/assets/img7.jpeg" alt="Us 7" />
                 <span className="polaroid-caption">💖</span>
               </div>
               <div className="polaroid polaroid-8">
-                <img src="/assets/img8.JPEG" alt="Us 8" />
+                <img src="/assets/img8.jpeg" alt="Us 8" />
                 <span className="polaroid-caption">💖</span>
               </div>
               <div className="polaroid polaroid-9">
-                <img src="/assets/img9.JPEG" alt="Us 9" />
+                <img src="/assets/img9.jpeg" alt="Us 9" />
                 <span className="polaroid-caption">💖</span>
               </div>
               <div className="polaroid polaroid-10">
-                <img src="/assets/img10.JPEG" alt="Us 10" />
+                <img src="/assets/img10.jpeg" alt="Us 10" />
                 <span className="polaroid-caption">💖</span>
               </div>
             </div>
@@ -205,7 +205,7 @@ export default function Home() {
             I have a very important question for you... 💌
           </p>
           <div className="polaroid polaroid-home">
-            <img src="/assets/img5.JPEG" alt="Us 4" />
+            <img src="/assets/img5.jpeg" alt="Us 4" />
             <span className="polaroid-caption">💗</span>
           </div>
           <h1 className="question-title">Will you be my Valentine?</h1>
